@@ -25,3 +25,10 @@ terraform apply
  - Before applying the terraform code please make sure you understand what it does.
 ## results
 ![image_1](results/result.png)
+![image_2](results/workspace.png)
+![image_3](results/ALB.png)
+![image_4](results/NLB.png)
+![image_5](results/target_group.png)
+![image_6](results/bucket.png)
+![image_7](results/target_group_1.png)
+
