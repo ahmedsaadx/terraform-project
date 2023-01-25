@@ -23,6 +23,8 @@ terraform apply
 ## Note
  - This project is just an example, please use it at your own risk.
  - Before applying the terraform code please make sure you understand what it does.
+## challenge
+![image_7](results/challenge.png)
 ## results
 ![image_1](results/result.png)
 ![image_2](results/workspace.png)
