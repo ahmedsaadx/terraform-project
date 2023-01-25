@@ -24,4 +24,4 @@ terraform apply
  - This project is just an example, please use it at your own risk.
  - Before applying the terraform code please make sure you understand what it does.
 ## results
-![image_1](result.png)
+![image_1](results/result.png)
